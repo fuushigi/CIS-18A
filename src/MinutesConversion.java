@@ -1,5 +1,5 @@
 /*
- * @author Tracy Quintos
+ * @author Tracy L Quintos
  * @assignment #2 page 116 #11
  * @date 2/22/17
  *
